@@ -1,7 +1,5 @@
 package ru.geekbrains.homework22;
 
-import java.util.SortedMap;
-
 public class Main {
 
     public static void main(String[] args) {
